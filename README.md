@@ -4,7 +4,7 @@
 
 # Karate Club Visualization
 
-https://github.com/user-attachments/assets/d7846f78-e504-48b4-ba6c-b4f1bd3292da
+https://github.com/user-attachments/assets/50ed50a5-e02a-425c-b397-43269a97b047
 
 DSC212 · Graph Theory module · Research Assignment  
 *Name:* DEVASHISH SHARMA &nbsp;·&nbsp; *Roll no.:* IMS25064
